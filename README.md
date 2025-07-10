@@ -1,12 +1,11 @@
 # JEE_COLLEGE_PREDICTOR-USING-MACHINE-LEARNING
 🚀AI-powered tool to predict top 1 or top N engineering colleges based on JEE rank, category, and preferences using Machine Learning.
 
-* 📧 Email changed to: `pakhareamol300@gmail.com`
-* 🔗 LinkedIn profile added: `https://www.linkedin.com/in/amolpakhare/`
+ 📧 Email changed to: `pakhareamol300@gmail.com`
+🔗 LinkedIn profile added: `https://www.linkedin.com/in/amolpakhare/`
 
----
-````markdown
-# 🎓 JEE College Assistant Using Machine Learning
+
+🎓 JEE College Assistant Using Machine Learning
 
 ## ℹ️ Introduction
 
