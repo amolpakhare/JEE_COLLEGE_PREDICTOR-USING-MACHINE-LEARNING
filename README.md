@@ -71,7 +71,7 @@ Every year, lakhs of students face difficulty in understanding which colleges an
   - Distance-based recommendation with multi-label output.
 - **Frontend**: Flask app that takes user input and displays the predicted top colleges.
 
----
+
 
 ## ✅ Model Accuracy
 
@@ -84,7 +84,7 @@ Every year, lakhs of students face difficulty in understanding which colleges an
 
 This performance demonstrates strong reliability in providing realistic admission possibilities.
 
----
+
 
 ## 🚀 How to Use
 
@@ -93,7 +93,7 @@ This performance demonstrates strong reliability in providing realistic admissio
    ```bash
    git clone https://github.com/yourusername/JEE-College-Predictor.git
    cd JEE-College-Predictor
-````
+
 
 2. Install dependencies:
 
@@ -112,13 +112,13 @@ This performance demonstrates strong reliability in providing realistic admissio
 * Run all cells to view predictions and charts.
 * Modify inputs to simulate different scenarios.
 
----
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Whether it's fixing bugs, improving UI, or adding features, feel free to open issues or submit a pull request.
 
----
+
 
 ## 📧 Contact
 
@@ -126,13 +126,13 @@ Contributions are welcome! Whether it's fixing bugs, improving UI, or adding fea
 🔗 LinkedIn: [linkedin.com/in/amolpakhare](https://www.linkedin.com/in/amolpakhare/)
 📬 Form: [Submit a Query](https://forms.gle/cEcJ9uEiz1XVbsuw8)
 
----
+
 
 ## 💬 Inspirational Quote
 
 > **"In the realm of data, every pattern is a path, and every insight is a step toward smarter decisions."**
 
----
+
 
 ## 📌 Future Enhancements
 
@@ -141,7 +141,6 @@ Contributions are welcome! Whether it's fixing bugs, improving UI, or adding fea
 * 📱 Build a mobile app version
 * 🔍 Use **LLMs for Natural Language Inputs** like: “Suggest best CS colleges under 10k rank.”
 
----
 
 ⭐ Don't forget to **star** this repo if you find it helpful!
 
